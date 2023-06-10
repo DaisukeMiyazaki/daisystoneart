@@ -1,99 +1,16 @@
 ---
-title: Markdown Examples
-date: 2021/3/19
-description: View examples of all possible Markdown options.
-tag: web development
+title: The Lazy Explorer Part One
+date: 2023/03/16
+description: I didn’t have a lot of money. Now I have more than I did at that time, but we aren’t talking about now we are talking about then.
+tag: personal writing
 author: You
 ---
 
-# Markdown Examples
 
-## h2 Heading
+I didn’t have a lot of money. Now I have more than I did at that time, but we aren’t talking about now we are talking about then.
 
-### h3 Heading
+When I’m at my brokest I’m at my most nostalgic. Living away from home, I can’t visit the sites of my own nostalgia. Instead, I’m left to visit the sites of others’. Luckily this works just as well. This is what lead me to the old timey candy store by my house.
 
-#### h4 Heading
+When you have less than 20 dollars in your bank account and more than a week left until your next paycheck what do you do? Eat eggs and rice? Walk to work instead of taking the train? Refrain from craft beers and trips to the movies? The week leading up to my paycheck I found myself heading to the candy store, around a 20 minute walk from my house on a particularly sunny Saturday afternoon.
 
-##### h5 Heading
-
-###### h6 Heading
-
-## Emphasis
-
-**This is bold text**
-
-_This is italic text_
-
-~~Strikethrough~~
-
-## Blockquotes
-
-> Develop. Preview. Ship. – Vercel
-
-## Lists
-
-Unordered
-
-- Lorem ipsum dolor sit amet
-- Consectetur adipiscing elit
-- Integer molestie lorem at massa
-
-Ordered
-
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
-
-## Code
-
-Inline `code`
-
-```
-export default function Nextra({ Component, pageProps }) {
-  return (
-    <>
-      <Head>
-        <link
-          rel="alternate"
-          type="application/rss+xml"
-          title="RSS"
-          href="/feed.xml"
-        />
-        <link
-          rel="preload"
-          href="/fonts/Inter-roman.latin.var.woff2"
-          as="font"
-          type="font/woff2"
-          crossOrigin="anonymous"
-        />
-      </Head>
-      <Component {...pageProps} />
-    </>
-  )
-}
-```
-
-## Tables
-
-| **Option** | **Description**                                                                                                             |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------- |
-| First      | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
-| Second     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
-| Third      | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
-
-## Links
-
-- [Next.js](https://nextjs.org)
-- [Nextra](https://nextra.vercel.app/)
-- [Vercel](http://vercel.com)
-
-### Footnotes
-
-- Footnote [^1].
-- Footnote [^2].
-
-[^1]: Footnote **can have markup**
-
-    and multiple paragraphs.
-
-[^2]: Footnote text.
+... keep reading on [my substack](https://thelazyexplorer.substack.com/p/the-lazy-explorer-part-one)
