@@ -1,6 +1,6 @@
 ---
 title: Resume
-date: 2023/5/20
+date: 2023/6/10
 description: "I am a Scripps College graduate with a major in Foreign Languages currently based in Tokyo, Japan. Over two years of experience in international logistics and supply chain operations. Additional experience in social media marketing and copywriting in fields ranging from apparel brands to startups."
 tag: resume
 author: You

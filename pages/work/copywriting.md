@@ -1,6 +1,6 @@
 ---
 title: Copywriting
-date: 2023/5/20
+date: 2023/6/10
 description: "Examples of my copywriting work."
 tag: writing examples
 author: You
