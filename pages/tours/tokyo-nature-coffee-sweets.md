@@ -10,7 +10,7 @@ import Image from 'next/image'
 # Best of Downtown Tokyo: Nature, Coffee & Japanese Sweets
 
 <Image
-  src="/images/tokyo-ramen-tour.jpg"
+  src="/images/tokyo-nature-coffee-sweets.jpg"
   alt="Tokyo Downtown Nature Coffee and Sweets Tour"
   width={1200}
   height={600}
