@@ -72,17 +72,24 @@ img.next-image {
   gap: 1.5rem;
 }
 
+.tour-cards-container a {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
 .tour-card {
   border: 1px solid #e5e7eb;
   border-radius: 12px;
   overflow: hidden;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
   background: white;
+  cursor: pointer;
 }
 
 .tour-card:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+  transform: translateY(-4px);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
 }
 
 .tour-card-image {
